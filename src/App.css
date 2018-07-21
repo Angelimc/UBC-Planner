@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  float: left;
+  height: 60px;
+  margin-left: 100px;
+  transform: translate(0%, 25%);
+}
+
+.App-logo:hover {
+  cursor: pointer;
+}
+
+.App-header {
+  background-color: #002145;
+  height: 125px;
+  padding: 20px;
+  color: white;
+}
